@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Client presentation",
+    "description": "Prepare slides for ABC Corp meeting",
+    "due_date": "2024-06-03",
+    "completed": false
+  },
+  {
+    "title": "Grocery shopping",
+    "description": "Buy ingredients for dinner party",
+    "due_date": "2024-06-02",
+    "completed": true
+  },
+  {
+    "title": "Dentist appointment",
+    "description": "Annual checkup at 2:30 PM",
+    "due_date": "2024-06-05",
+    "completed": false
+  },
+  {
+    "title": "Book club reading",
+    "description": "Finish 'The Midnight Library'",
+    "due_date": "2024-06-10",
+    "completed": false
+  },
+  {
+    "title": "Car oil change",
+    "description": "Schedule at Jiffy Lube",
+    "due_date": "2024-06-15",
+    "completed": false
+  },
+  {
+    "title": "Team building event",
+    "description": "Plan activities for department",
+    "due_date": "2024-06-20",
+    "completed": false
+  },
+  {
+    "title": "Meditation session",
+    "description": "Try new guided meditation app",
+    "due_date": "2024-06-01",
+    "completed": true
+  },
+  {
+    "title": "Investments review",
+    "description": "Reallocate portfolio percentages",
+    "due_date": "2024-06-30",
+    "completed": false
+  },
+  {
+    "title": "Birthday gift for Mom",
+    "description": "Order flowers and card",
+    "due_date": "2024-06-12",
+    "completed": false
+  },
+  {
+    "title": "Learn Spanish",
+    "description": "Complete Duolingo lesson",
+    "due_date": "2024-06-01",
+    "completed": false
+  },
+  {
+    "title": "Update software",
+    "description": "Install latest security patches",
+    "due_date": "2024-06-04",
+    "completed": false
+  },
+  {
+    "title": "Summer vacation planning",
+    "description": "Research hotels in Bali",
+    "due_date": "2024-06-25",
+    "completed": false
+  },
+  {
+    "title": "Donate old clothes",
+    "description": "Bag up items for Goodwill",
+    "due_date": "2024-06-08",
+    "completed": true
+  },
+  {
+    "title": "Yoga class",
+    "description": "Sign up for Wednesday sessions",
+    "due_date": "2024-06-05",
+    "completed": false
+  },
+  {
+    "title": "Quarterly taxes",
+    "description": "Calculate and file estimated payments",
+    "due_date": "2024-06-15",
+    "completed": false
+  },
+  {
+    "title": "Fix leaky faucet",
+    "description": "Kitchen sink needs repair",
+    "due_date": "2024-06-07",
+    "completed": false
+  },
+  {
+    "title": "Network upgrade",
+    "description": "Replace old router",
+    "due_date": "2024-06-18",
+    "completed": false
+  },
+  {
+    "title": "Write blog post",
+    "description": "500 words on productivity tips",
+    "due_date": "2024-06-09",
+    "completed": false
+  },
+  {
+    "title": "Dog vet appointment",
+    "description": "Annual shots for Max",
+    "due_date": "2024-06-22",
+    "completed": false
+  },
+  {
+    "title": "Team lunch",
+    "description": "Reserve table at Italian place",
+    "due_date": "2024-06-14",
+    "completed": true
+  },
+  {
+    "title": "Garden planting",
+    "description": "Tomatoes and herbs in backyard",
+    "due_date": "2024-06-03",
+    "completed": false
+  },
+  {
+    "title": "Credit card payment",
+    "description": "Pay balance before due date",
+    "due_date": "2024-06-17",
+    "completed": false
+  },
+  {
+    "title": "Photography course",
+    "description": "Sign up for online class",
+    "due_date": "2024-06-28",
+    "completed": false
+  },
+  {
+    "title": "Deep clean fridge",
+    "description": "Remove all items and sanitize",
+    "due_date": "2024-06-11",
+    "completed": false
+  },
+  {
+    "title": "Backup phone photos",
+    "description": "Transfer to cloud storage",
+    "due_date": "2024-06-06",
+    "completed": false
+  },
+  {
+    "title": "Volunteer at shelter",
+    "description": "Saturday morning shift",
+    "due_date": "2024-06-08",
+    "completed": false
+  },
+  {
+    "title": "Renew passport",
+    "description": "Application and photos needed",
+    "due_date": "2024-06-30",
+    "completed": false
+  },
+  {
+    "title": "Meal prep",
+    "description": "Cook lunches for the week",
+    "due_date": "2024-06-02",
+    "completed": true
+  },
+  {
+    "title": "Budget review",
+    "description": "Analyze May spending",
+    "due_date": "2024-06-05",
+    "completed": false
+  },
+  {
+    "title": "Movie night",
+    "description": "Watch new sci-fi release",
+    "due_date": "2024-06-07",
+    "completed": false
+  }
+]
